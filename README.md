@@ -73,7 +73,7 @@ catkin_make
     <img src="/pic/p4.png" alt="drawing" width="400" height =200/>
 </p>
 
-最终的建图效果
+最终的建图效果(此处展示内容为去除了车辆)
 <p align='center'>
     <img src="/pic/re1.png" alt="drawing" width="400" height ="200"/>
     <img src="/pic/re2.png" alt="drawing" width="400" height =200/>
