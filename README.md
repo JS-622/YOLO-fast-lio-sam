@@ -5,10 +5,12 @@
 ## Back_end : lio_sam
 
 <p align='center'>
-    <img src="/pic/1.png" alt="drawing" width="200" height ="200"/>
-    <img src="/pic/2.png" alt="drawing" width="200" height =200/>
-    <img src="/pic/3.png" alt="drawing" width="200" height =200/>
-    <img src="/pic/4.png" alt="drawing" width="200" height =200/>
+    <img src="/pic/1.png" alt="drawing" width="400" height ="200"/>
+    <img src="/pic/2.png" alt="drawing" width="400" height =200/>
+</p>
+<p align='center'>
+    <img src="/pic/3.png" alt="drawing" width="400" height ="200"/>
+    <img src="/pic/4.png" alt="drawing" width="400" height =200/>
 </p>
 
 ## Related worked 
@@ -40,14 +42,43 @@ catkin_make
 #### For outdoor dataset
 
 场景图片
-![my](/pic/1.png)
+![my](/pic/pic1.png)
+
 未进行检测去除的运行效果
+<p align='center'>
+    <img src="/pic/no1.png" alt="drawing" width="400" height ="200"/>
+    <img src="/pic/no2.png" alt="drawing" width="400" height =200/>
+</p>
+
+使用单目相机进行赋色后的运行效果
+<p align='center'>
+    <img src="/pic/color2.png" alt="drawing" width="400" height ="200"/>
+    <img src="/pic/color3.png" alt="drawing" width="400" height =200/>
+</p>
+<p align='center'>
+    <img src="/pic/color4.png" alt="drawing" width="400" height ="200"/>
+    <img src="/pic/color5.png" alt="drawing" width="400" height =200/>
+</p>
+
+使用YOLO进行目标检测的过程
+![my](/pic/det1.png)
+
+检测结果对点云的投影
+<p align='center'>
+    <img src="/pic/p1.png" alt="drawing" width="400" height ="200"/>
+    <img src="/pic/p2.png" alt="drawing" width="400" height =200/>
+</p>
+<p align='center'>
+    <img src="/pic/p3.png" alt="drawing" width="400" height ="200"/>
+    <img src="/pic/p4.png" alt="drawing" width="400" height =200/>
+</p>
+
+最终的建图效果
+<p align='center'>
+    <img src="/pic/re1.png" alt="drawing" width="400" height ="200"/>
+    <img src="/pic/re2.png" alt="drawing" width="400" height =200/>
+</p>
 
 
+## More
 
-## Attention:
-
-
-
-
-## some problems:
